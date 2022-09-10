@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#navbar {
+    border-right: 1px solid black;
+    display: flex;
+    height: 100vh;
+    width: 20em;
+    flex-direction: column;
+    text-align: center;
+    position: fixed;
+}
+
+#navbar h2 {
+    margin: 0;
+    padding: 1em 0 1.5em;
+}
+
+#navbar,
+#navbar h2,
+.nav-link {
+    border-bottom: 1px solid black;
+}
+
+
+
+.nav-link {
+    height: 3.5em;
+    padding-top: 1.2em;
+}
+
+.nav-link:hover {
+    background: black;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#content-sections {
+    overflow: hidden;
+    position: absolute;
+    top: 1.5em;
+    left: 21em;
+}
+
+.main-section {
+    margin: 0;
+}
+
+.main-section h2 {
+    margin: 0;
+}
