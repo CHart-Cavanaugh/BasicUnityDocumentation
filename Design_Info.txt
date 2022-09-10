@@ -1,0 +1,78 @@
+Technical Documentation Design
+
+    1. Topics
+
+        0) [START]
+        1) Reference Folders
+        2) Standard Reference Folders
+        3) Extended Reference Folders
+
+            0) [START]
+            1) Reference Version Folders
+            2) Reference README
+            n) [END]
+
+        4) System Folders
+        n) [END]
+
+    2. Topics + Their Qualities
+
+        0) [START]
+        1) Reference Folders
+
+            0) [START]
+            1) Purpose:
+            2) Description:
+            n) [END]
+
+        2) Standard Reference Folders
+
+            0) [START]
+            1) Purpose:
+            2) Description:
+            n) [END]
+
+        3) Extended Reference Folders
+
+            0) [START]
+            1) Purpose:
+            2) Description:
+            3) Subsections:
+
+                0) [START]
+                1) Reference Version Folders
+
+                    0) [START]
+                    1) Purpose:
+                    2) Description:
+                    n) [END]
+
+                2) Reference README
+
+                    0) [START]
+                    1) Purpose:
+                    2) Description:
+                    n) [END]
+
+                n) [END]
+        
+            n) [END]
+
+
+        4) System Folder
+
+            0) [START]
+            1) Purpose:
+            2) Description:
+            n) [END]
+
+        n) [END]
+
+    HTML & CSS
+
+        1) 4 sections
+        2) 
+
+    END
+
+END
