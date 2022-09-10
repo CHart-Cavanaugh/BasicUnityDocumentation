@@ -1,3 +1,9 @@
+/*
+
+    Fix formatting issue with media query
+
+*/
+
 * {
     box-sizing: border-box;
 }
@@ -10,6 +16,7 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
+    justify-content: flex-start;
 }
 
 #navbar {
@@ -20,6 +27,8 @@ body {
     flex-direction: column;
     text-align: center;
     position: fixed;
+    z-index: 100;
+    background: white;
 }
 
 #navbar h2 {
@@ -35,8 +44,8 @@ body {
 
 
 .nav-link {
-    height: 3.5em;
     padding-top: 1.2em;
+    height: 3.5em;
 }
 
 .nav-link:hover {
@@ -50,17 +59,17 @@ a {
 }
 
 #content-sections {
-    overflow: hidden;
-    position: absolute;
+    position: relative;
     top: 1.5em;
     left: 21em;
+    z-index: 0;
 }
 
 .main-section {
     margin: 0;
 
     /* Test Properties */
-    /* height: 200px; */
+    height: 200px;
 }
 
 .main-section h2 {
