@@ -6,6 +6,12 @@ body {
     margin: 0;
 }
 
+#main-doc {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
 #navbar {
     border-right: 1px solid black;
     display: flex;
@@ -52,6 +58,9 @@ a {
 
 .main-section {
     margin: 0;
+
+    /* Test Properties */
+    /* height: 200px; */
 }
 
 .main-section h2 {
