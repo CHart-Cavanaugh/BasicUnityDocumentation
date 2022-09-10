@@ -30,7 +30,16 @@ Technical Documentation Design
 
         END
 
-    Game Window And Play Controls
+    Game Window
+
+        Q&A
+
+            0) [START]
+            n) [END]
+
+        END
+
+    Play Controls
 
         Q&A
 
