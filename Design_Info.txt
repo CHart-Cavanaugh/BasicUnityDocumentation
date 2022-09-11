@@ -98,6 +98,9 @@ Technical Documentation Design
         Useful Questions
 
             0) [START]
+            1) What is the Game window used for?
+            2) What perspective is the Game window viewing the scene from?
+            3) How does the aspect ratio of the Game window affect objects in the game?
             n) [END]
 
         Topic Qualities
