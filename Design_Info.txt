@@ -24,6 +24,11 @@ Technical Documentation Design
             0) [START]
             n) [END]
 
+        Topic Qualities
+
+            0) [START]
+            n) [END]
+
         END
 
     Inspector Window
@@ -109,6 +114,20 @@ Technical Documentation Design
             n) [END]
 
         END
+
+    Building The Game
+
+        Useful Questions
+
+            0) [START]
+            n) [END]
+
+        Topic Qualities
+
+            0) [START]
+            n) [END]
+
+        END   
 
     END
 
