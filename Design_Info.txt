@@ -17,7 +17,24 @@ Technical Documentation Design
 
         END
     
-    Hierarchy And Scene Windows
+    Hierarchy Window
+
+        Useful Questions
+
+            0) [START]
+            1) In the Unity editor, what are scenes?
+            2) In the Unity editor, what are GameObjects?
+            3) In the Unity editor, what is the Hierarchy window used for?
+            n) [END]
+
+        Topic Qualities
+
+            0) [START]
+            n) [END]
+
+        END
+
+    Scene Window
 
         Useful Questions
 
@@ -29,7 +46,7 @@ Technical Documentation Design
             0) [START]
             n) [END]
 
-        END
+        END       
 
     Inspector Window
 
