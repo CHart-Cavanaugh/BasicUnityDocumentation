@@ -67,8 +67,24 @@ Technical Documentation Design
 
         Useful Questions
 
-            0) [START]
-            n) [END]
+            00) [START]
+            01) In the Unity editor, what does the Inspector window display when a GameObject is selected
+               in the scene?
+            02) In the Unity editor, what is the tag of a GameObject used for?
+            03) In the Unity editor, what is the layer of a GameObject used for?
+            04) In the Unity editor, what do components do in terms of GameObjects?
+            05) In the Unity editor, what component is every GameObject defined with?
+            06) In the Unity editor, what component defines a GameObject as a camera object?
+            07) In the Unity eidtor, what is a camera object and what does it do?
+            08) In the Unity editor, what are some common components that a Game Object can have?
+            09) In the Unity editor, what component defines a 2D appearance for a GameObject?
+            10) In the Unity editor, what components allows a GameObject to interact with Unity's physics engine?
+            11) In the Unity editor, what component defines sound for a GameObject?
+            12) In the Unity editor, what component allows a GameObject to listen for sounds and output them to a player's audio
+               output?
+            13) In the Unity editor, what component defines a custom behavior for a GameObject?
+            14) In the Unity editor, what other information can the Inspector window display?
+            nn) [END]
 
         Topic Qualities
 
