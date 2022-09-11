@@ -39,6 +39,21 @@ Technical Documentation Design
         Useful Questions
 
             0) [START]
+            1) In the Unity editor, what is the Scene window used for?
+            2) In the Scene window of the Unity editor, in what ways can a developer 
+               change their perspective view of the active scene and how?
+            3) In the Scene window of the Unity editor, what are the transform tools used for
+               and how do each of them work?
+            4) When transforming objects in the Scene window of the Unity editor, what is the 
+               Toole Handle Rotation Toggle?
+            5) When transforming objects in the Scene window of the Unity editor, what is the 
+               difference between local rotation and global rotation?
+            6) In the Scene window of the Unity editor, how do object transforms work when the
+               Tool Handle Rotation Toggle is set to global rotation?
+            7) In the Scene window of the Unity editor, how do object transforms work when the
+               Tool Handle Rotation Toggle is set to local rotation?
+            8) In the Scene window of the Unity Editor, what is Grid Snapping, how can it be used,
+               and how can the snapping increment values be changed?
             n) [END]
 
         Topic Qualities
