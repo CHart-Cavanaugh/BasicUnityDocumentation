@@ -115,6 +115,11 @@ Technical Documentation Design
         Useful Questions
 
             0) [START]
+            1) In the Unity editor, what are the play controls used for and how do each of them work?
+            2) In the Unity editor, what happens when a developer clicks on the Play button?
+            3) When the Unity editor is in Play mode, what can a developer do in the Game window?
+            4) When the Unity editor is in Play mode, what can a developer do with the Hierarch, Scene,
+               and Inspector windows?
             n) [END]
 
         Topic Qualities
