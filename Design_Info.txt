@@ -59,7 +59,7 @@ Technical Documentation Design
 
         END
 
-    Understanding The Unity Editor
+    Using The Unity Editor
 
         Hierarchy Window
 
