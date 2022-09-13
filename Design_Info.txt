@@ -59,186 +59,190 @@ Technical Documentation Design
 
         END
 
-    Hierarchy Window
+    Understanding The Unity Editor
 
-        Useful Questions
+        Hierarchy Window
 
-            0) [START]
-            1) In the Unity editor, what are scenes?
-            2) In the Unity editor, what are GameObjects?
-            3) In the Unity editor, what is the Hierarchy window used for?
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                1) In the Unity editor, what are scenes?
+                2) In the Unity editor, what are GameObjects?
+                3) In the Unity editor, what is the Hierarchy window used for?
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END
+                0) [START]
+                n) [END]
 
-    Scene Window
+            END
 
-        Useful Questions
+        Scene Window
 
-            0) [START]
-            1) In the Unity editor, what is the Scene window used for?
-            2) In the Scene window of the Unity editor, in what ways can a developer 
-               change their perspective view of the active scene and how?
-            3) In the Scene window of the Unity editor, what are the transform tools used for
-               and how do each of them work?
-            4) When transforming objects in the Scene window of the Unity editor, what is the 
-               Toole Handle Rotation Toggle?
-            5) When transforming objects in the Scene window of the Unity editor, what is the 
-               difference between local rotation and global rotation?
-            6) In the Scene window of the Unity editor, how do object transforms work when the
-               Tool Handle Rotation Toggle is set to global rotation?
-            7) In the Scene window of the Unity editor, how do object transforms work when the
-               Tool Handle Rotation Toggle is set to local rotation?
-            8) In the Scene window of the Unity Editor, what is Grid Snapping, how can it be used,
-               and how can the snapping increment values be changed?
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                1) In the Unity editor, what is the Scene window used for?
+                2) In the Scene window of the Unity editor, in what ways can a developer 
+                change their perspective view of the active scene and how?
+                3) In the Scene window of the Unity editor, what are the transform tools used for
+                and how do each of them work?
+                4) When transforming objects in the Scene window of the Unity editor, what is the 
+                Toole Handle Rotation Toggle?
+                5) When transforming objects in the Scene window of the Unity editor, what is the 
+                difference between local rotation and global rotation?
+                6) In the Scene window of the Unity editor, how do object transforms work when the
+                Tool Handle Rotation Toggle is set to global rotation?
+                7) In the Scene window of the Unity editor, how do object transforms work when the
+                Tool Handle Rotation Toggle is set to local rotation?
+                8) In the Scene window of the Unity Editor, what is Grid Snapping, how can it be used,
+                and how can the snapping increment values be changed?
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END       
+                0) [START]
+                n) [END]
 
-    Inspector Window
+            END       
 
-        Useful Questions
+        Inspector Window
 
-            00) [START]
-            01) In the Unity editor, what does the Inspector window display when a GameObject is selected
-               in the scene?
-            02) In the Unity editor, what is the tag of a GameObject used for?
-            03) In the Unity editor, what is the layer of a GameObject used for?
-            04) In the Unity editor, what do components do in terms of GameObjects?
-            05) In the Unity editor, what component is every GameObject defined with?
-            06) In the Unity editor, what component defines a GameObject as a camera object?
-            07) In the Unity eidtor, what is a camera object and what does it do?
-            08) In the Unity editor, what are some common components that a Game Object can have?
-            09) In the Unity editor, what component defines a 2D appearance for a GameObject?
-            10) In the Unity editor, what components allows a GameObject to interact with Unity's physics engine?
-            11) In the Unity editor, what component defines sound for a GameObject?
-            12) In the Unity editor, what component allows a GameObject to listen for sounds and output them to a player's audio
-               output?
-            13) In the Unity editor, what component defines a custom behavior for a GameObject?
-            14) In the Unity editor, what other information can the Inspector window display?
-            nn) [END]
+            Useful Questions
 
-        Topic Qualities
+                00) [START]
+                01) In the Unity editor, what does the Inspector window display when a GameObject is selected
+                in the scene?
+                02) In the Unity editor, what is the tag of a GameObject used for?
+                03) In the Unity editor, what is the layer of a GameObject used for?
+                04) In the Unity editor, what do components do in terms of GameObjects?
+                05) In the Unity editor, what component is every GameObject defined with?
+                06) In the Unity editor, what component defines a GameObject as a camera object?
+                07) In the Unity eidtor, what is a camera object and what does it do?
+                08) In the Unity editor, what are some common components that a Game Object can have?
+                09) In the Unity editor, what component defines a 2D appearance for a GameObject?
+                10) In the Unity editor, what components allows a GameObject to interact with Unity's physics engine?
+                11) In the Unity editor, what component defines sound for a GameObject?
+                12) In the Unity editor, what component allows a GameObject to listen for sounds and output them to a player's audio
+                output?
+                13) In the Unity editor, what component defines a custom behavior for a GameObject?
+                14) In the Unity editor, what other information can the Inspector window display?
+                nn) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END
+                0) [START]
+                n) [END]
 
-    Game Window
+            END
 
-        Useful Questions
+        Game Window
 
-            0) [START]
-            1) What is the Game window used for?
-            2) What perspective is the Game window viewing the scene from?
-            3) How does the aspect ratio of the Game window affect objects in the game?
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                1) What is the Game window used for?
+                2) What perspective is the Game window viewing the scene from?
+                3) How does the aspect ratio of the Game window affect objects in the game?
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END
+                0) [START]
+                n) [END]
 
-    Play Controls
+            END
 
-        Useful Questions
+        Play Controls
 
-            0) [START]
-            1) In the Unity editor, what are the play controls used for and how do each of them work?
-            2) In the Unity editor, what happens when a developer clicks on the Play button?
-            3) When the Unity editor is in Play mode, what can a developer do in the Game window?
-            4) When the Unity editor is in Play mode, what can a developer do with the Hierarch, Scene,
-               and Inspector windows?
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                1) In the Unity editor, what are the play controls used for and how do each of them work?
+                2) In the Unity editor, what happens when a developer clicks on the Play button?
+                3) When the Unity editor is in Play mode, what can a developer do in the Game window?
+                4) When the Unity editor is in Play mode, what can a developer do with the Hierarch, Scene,
+                and Inspector windows?
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END
+                0) [START]
+                n) [END]
 
-    Console Window
+            END
 
-        Useful Questions
+        Console Window
 
-            0) [START]
-            1) In the Unity editor, what is the console window used for?
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                1) In the Unity editor, what is the console window used for?
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END
+                0) [START]
+                n) [END]
 
-    Project Window
+            END
 
-        Useful Questions
+        Project Window
 
-            0) [START]
-            1) In the Unity editor, what is the Project window used for?
-            2) What are some normal file types that are commonly stored in the Project window of the Unity 
-               editor?
-            3) What are some Unity file types that are commonly stored in the Project window of the Unity
-               editor?
-            4) In the Unity editor, what information can the Inspector window display when a file from the
-               Project window is selected?
-            5) What are some ways that files from the Project window can be used to define GameObjects in 
-               Unity?
-            6) How can a developer use the Project window of the Unity editor to load a new scene as the
-               active scene in the Hierarchy window?
-            7) How can a developer import new assets into the Project window of the Unity editor?
-            8) What are Unity packages, how can a developer create them, and how can a developer import assets
-               from them into a Unity project?
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                1) In the Unity editor, what is the Project window used for?
+                2) What are some normal file types that are commonly stored in the Project window of the Unity 
+                editor?
+                3) What are some Unity file types that are commonly stored in the Project window of the Unity
+                editor?
+                4) In the Unity editor, what information can the Inspector window display when a file from the
+                Project window is selected?
+                5) What are some ways that files from the Project window can be used to define GameObjects in 
+                Unity?
+                6) How can a developer use the Project window of the Unity editor to load a new scene as the
+                active scene in the Hierarchy window?
+                7) How can a developer import new assets into the Project window of the Unity editor?
+                8) What are Unity packages, how can a developer create them, and how can a developer import assets
+                from them into a Unity project?
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END
+                0) [START]
+                n) [END]
 
-    MonoBehaviour Scripts
+            END
 
-        Useful Questions
+        MonoBehaviour Scripts
 
-            0) [START]
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END
+                0) [START]
+                n) [END]
 
-    Asset Store
+            END
 
-        Useful Questions
+        Asset Store
 
-            0) [START]
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
 
         END
 
