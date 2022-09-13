@@ -302,17 +302,21 @@ Technical Documentation Design
 
     Building The Game
 
-        Useful Questions
+        Section Introduction
 
-            0) [START]
-            n) [END]
+            Useful Questions
 
-        Topic Qualities
+                0) [START]
+                n) [END]
 
-            0) [START]
-            n) [END]
+            Topic Qualities
 
-        END   
+                0) [START]
+                n) [END]
+
+            END
+
+        END  
 
     END
 
