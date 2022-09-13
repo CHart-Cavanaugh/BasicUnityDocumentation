@@ -134,6 +134,7 @@ Technical Documentation Design
         Useful Questions
 
             0) [START]
+            1) In the Unity editor, what is the console window used for?
             n) [END]
 
         Topic Qualities
