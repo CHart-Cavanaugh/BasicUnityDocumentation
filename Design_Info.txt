@@ -149,6 +149,20 @@ Technical Documentation Design
         Useful Questions
 
             0) [START]
+            1) In the Unity editor, what is the Project window used for?
+            2) What are some normal file types that are commonly stored in the Project window of the Unity 
+               editor?
+            3) What are some Unity file types that are commonly stored in the Project window of the Unity
+               editor?
+            4) In the Unity editor, what information can the Inspector window display when a file from the
+               Project window is selected?
+            5) What are some ways that files from the Project window can be used to define GameObjects in 
+               Unity?
+            6) How can a developer use the Project window of the Unity editor to load a new scene as the
+               active scene in the Hierarchy window?
+            7) How can a developer import new assets into the Project window of the Unity editor?
+            8) What are Unity packages, how can a developer create them, and how can a developer import assets
+               from them into a Unity project?
             n) [END]
 
         Topic Qualities
