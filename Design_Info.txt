@@ -80,7 +80,7 @@ Technical Documentation Design
 
             END
 
-        Selecting An Editor Version
+        Selecting Editor Version
 
             Useful Questions
 
@@ -108,7 +108,7 @@ Technical Documentation Design
 
             END
 
-        Selecting A Location For Project Files
+        Selecting Project Location
 
             Useful Questions
 
