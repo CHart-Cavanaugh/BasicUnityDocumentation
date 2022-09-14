@@ -401,6 +401,48 @@ Technical Documentation Design
 
             END
 
+        Adding Scenes
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Selecting A Platform
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Building The Game Files
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
         END  
 
     END
