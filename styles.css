@@ -59,7 +59,7 @@ a {
 }
 
 .section-content {
-    text-indent: 2em;
+    text-indent: 1em;
 }
 
 @media (min-width: 900px) {
