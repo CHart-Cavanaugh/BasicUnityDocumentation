@@ -101,7 +101,7 @@ a {
         border-bottom: 1px solid black;
     }
 
-    #content-sections {
+    #page-content {
         position: absolute;
         padding: 0;
         top: 1rem;
