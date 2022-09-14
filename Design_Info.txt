@@ -80,6 +80,62 @@ Technical Documentation Design
 
             END
 
+        Selecting An Editor Version
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Selecting A Project Template
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Selecting A Location For Project Files
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Naming The Project
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
         END
 
     Opening An Existing Unity Project
