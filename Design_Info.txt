@@ -154,6 +154,34 @@ Technical Documentation Design
 
             END
 
+        Adding The Project to Unity Hub
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+        
+        Selecting Editor Version
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
         END
 
     Using The Unity Editor
