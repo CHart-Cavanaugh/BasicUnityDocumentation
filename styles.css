@@ -9,6 +9,7 @@ body {
 
 #main-doc {
     margin: 0;
+    position: relative;
 }
 
 #nav-links {
