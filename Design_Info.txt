@@ -56,6 +56,13 @@ Technical Documentation Design
             Useful Questions
 
                 0) [START]
+                1) Why does Unity Hub need to be downloaded and installed before Unity can be installed?
+                2) What is Unity Hub used for?
+                3) Where does someone go to download Unity Hub?
+                4) Why should a developer create an account with Unity?
+                5) What type of licenses are there for Unity?
+                6) Where should a developer go to compare the features of each license that Unity has to offer?
+                7) What type of license should a developer choose to add to their account?
                 n) [END]
 
             Topic Qualities
