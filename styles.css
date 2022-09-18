@@ -5,12 +5,18 @@
 body {
     margin: 0;
     overflow: auto;
-    background: beige;
+    background: #E6E6CF;
+    background: #66665C;
 }
 
 #main-doc {
     margin: 0;
     position: relative;
+}
+
+h1,
+#nav-links {
+    background: #FFFFE6;
 }
 
 #nav-links {
@@ -21,7 +27,6 @@ body {
     flex-direction: column;
     text-align: center;
     z-index: 100;
-    background: white;
     overflow: auto;
     margin: 1em auto;
 }
@@ -59,7 +64,7 @@ a {
 .main-section {
     padding: .25em .5em;
     margin: 1% 0;
-    background-color: #A6A6A6;
+    background-color: #CFCFBA;
 }
 
 .main-section:first-of-type {
@@ -75,7 +80,7 @@ a {
 }
 
 .subsection {
-    background-color: #E6E6E6;
+    background-color: #FFFFE6;
     padding: .25em .5em;
     margin: .25em 0;
 }
