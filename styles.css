@@ -6,7 +6,7 @@
 body {
     margin: 0;
     overflow: auto;
-    background: #FFFFE6;
+    background: #CFCFBA;
 }
 
 #main-doc {
@@ -19,7 +19,7 @@ body {
 /* NAVIGATION BAR */
 #navbar header {
     padding-top: 1rem;
-    background: #FFFFE6;
+    background: #CFCFBA;
 }
 
 #navbar h1 {
@@ -29,7 +29,6 @@ body {
 
 #nav-links {
     border: 1.5px solid black;
-    background: white;
     height: 10em;
     width: 80%;
     display: flex;
@@ -43,7 +42,7 @@ body {
 .nav-link {
     padding: 1.2em 0;
     height: 3.5em;
-    background: white;
+    background: #FFFFE6;
     text-decoration: none;
     color: black;
 }
@@ -71,8 +70,7 @@ body {
 .main-section {
     padding: .25em .5em;
     margin: 1% 0;
-    background-color: #CFCFBA;
-    border: 1px solid black;
+    background: #CFCFBA;
 }
 
 .main-section:first-of-type {
@@ -144,7 +142,7 @@ body {
     #nav-links {
         height: 100%;
         width: 100%;
-        background: #FFFFE6;
+        background: #CFCFBA;
         overflow: auto;
         margin: 0;
         border: none;
@@ -177,5 +175,6 @@ body {
         padding: 1em 1.25em;
         max-width: 50em;
         margin: 1em 0;
+        border: 1px solid black;
     }
 }
