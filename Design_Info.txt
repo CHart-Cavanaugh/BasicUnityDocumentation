@@ -399,6 +399,66 @@ Technical Documentation Design
 
         END
 
+    Using Visual Studio Code For Unity Projects
+
+        Section Introduction
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Connecting Visual Studio Code To The Unity Editor
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Using Visual Studio Code
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        Adding Useful Extensions For Unity Projects
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
+        END
+    
     Building The Game
 
         Section Introduction
