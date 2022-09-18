@@ -75,6 +75,10 @@ a {
     margin: 0;
 }
 
+.main-section header {
+    margin-bottom: 1em;
+}
+
 .section-content {
     padding: 0 1em;
 }
@@ -88,6 +92,10 @@ a {
 
 .subsection header {
     margin-bottom: 1em;
+}
+
+.subsection-content {
+    padding: 0 1em;
 }
 
 h3 {
