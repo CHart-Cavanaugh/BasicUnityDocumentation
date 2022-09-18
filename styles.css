@@ -1,3 +1,4 @@
+/* GENERAL PAGE STYLES */
 * {
     box-sizing: border-box;
 }
@@ -13,8 +14,17 @@ body {
     position: relative;
 }
 
-h1 {
+
+
+/* NAVIGATION BAR */
+#navbar header {
+    padding-top: 1rem;
     background: #FFFFE6;
+}
+
+#navbar h1 {
+    margin: 0;
+    text-align: center;
 }
 
 #nav-links {
@@ -30,10 +40,11 @@ h1 {
     margin: 1em auto;
 }
 
-#navbar h1 {
-    margin: 0;
-    text-align: center;
-    padding-top: 1rem;
+.nav-link {
+    padding: 1.2em 0;
+    height: 3.5em;
+    text-decoration: none;
+    color: black;
 }
 
 .nav-link:not(.nav-link:last-of-type) {
@@ -41,25 +52,21 @@ h1 {
     border-bottom: 1px solid black;
 }
 
-.nav-link {
-    padding: 1.2em 0;
-    height: 3.5em;
-}
-
 .nav-link:hover {
     background: black;
     color: white;
 }
 
-a {
-    text-decoration: none;
-    color: black;
-}
 
+
+/* MAIN PAGE CONTENT */
 #page-content {
     padding: 0 1%;
 }
 
+
+
+/* PAGE SECTIONS */
 .main-section {
     padding: .25em .5em;
     margin: 1% 0;
@@ -71,18 +78,21 @@ a {
     margin: 0 0;
 }
 
-.main-section h2 {
-    margin: 0;
+.main-section>header {
+    margin-bottom: 1em;
 }
 
-.main-section header {
-    margin-bottom: 1em;
+.main-section h2 {
+    margin: 0;
 }
 
 .section-content {
     padding: 0 1em;
 }
 
+
+
+/* PAGE SUBSECTIONS */
 .subsection {
     background-color: #FFFFE6;
     padding: .25em .5em;
@@ -90,25 +100,32 @@ a {
     border: 1px solid black;
 }
 
-.subsection header {
+.subsection>header {
     margin-bottom: 1em;
+}
+
+.subsection h3 {
+    margin: 0;
+    white-space: break-spaces;
 }
 
 .subsection-content {
     padding: 0 1em;
 }
 
-h3 {
-    margin: 0;
-    white-space: break-spaces;
-}
 
+
+/* MEDIA QUERY */
 @media (min-width: 900px) {
 
+    /* GENERAL PAGE STYLES */
     body {
         background: #66665C;
     }
 
+
+
+    /* NAVIGATION BAR */
     #navbar {
         height: 100vh;
         width: 20rem;
@@ -143,6 +160,9 @@ h3 {
         border-bottom: 1px solid black;
     }
 
+
+
+    /* MAIN PAGE CONTENT */
     #page-content {
         position: absolute;
         min-width: calc(100% - 20em);
