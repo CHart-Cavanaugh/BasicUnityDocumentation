@@ -18,7 +18,7 @@ Technical Documentation Design
 
         END  
     
-    Installing Unity
+    Installing Unity & Visual Studio Code
 
         Section Introduction
 
