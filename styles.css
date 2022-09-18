@@ -64,6 +64,7 @@ a {
     padding: .25em .5em;
     margin: 1% 0;
     background-color: #CFCFBA;
+    border: 1px solid black;
 }
 
 .main-section:first-of-type {
@@ -82,6 +83,7 @@ a {
     background-color: #FFFFE6;
     padding: .25em .5em;
     margin: .25em 0;
+    border: 1px solid black;
 }
 
 .subsection header {
