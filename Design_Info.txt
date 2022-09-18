@@ -91,6 +91,11 @@ Technical Documentation Design
             Useful Questions
 
                 0) [START]
+                1) Where does someone go in Unity Hub to view Unity installations or to install new versions of Unity?
+                2) Which version of Unity should someone install?
+                3) Why should someone install a version of Unity that has long-term support in comparison to other versions?
+                4) What modules should someone add to a version of Unity that they are installing and why?
+                5) What is the purpose of having different versions of Unity installed?
                 n) [END]
 
             Topic Qualities
