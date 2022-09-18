@@ -16,6 +16,19 @@ Technical Documentation Design
             Topic Qualities
 
                 0) [START]
+                1) Unity is a game engine (which is a development environment used to make video games for different platforms).
+                2) Besides being useful for making video games, Unity can also be used to make regular applications (such as 
+                   applications on desktop and mobile devices).
+                3) Some examples of video games that were made using Unity include:
+
+                    0) [START]
+                    1) Among Us
+                    2) Subnautica
+                    3) Cuphead
+                    4) Fall Guys: Ultimate Knockout
+                    5) Ori and the Will of the Wisps
+                    n) [END]
+
                 n) [END]
 
             END
