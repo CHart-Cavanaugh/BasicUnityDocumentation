@@ -5,6 +5,7 @@
 body {
     margin: 0;
     overflow: auto;
+    background: beige;
 }
 
 #main-doc {
@@ -64,10 +65,6 @@ a {
 }
 
 @media (min-width: 900px) {
-
-    body {
-        background: beige;
-    }
 
     #navbar {
         height: 100vh;
