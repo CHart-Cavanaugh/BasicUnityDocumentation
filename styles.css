@@ -18,7 +18,7 @@ body {
 
 /* NAVIGATION BAR */
 #navbar header {
-    padding-top: 1rem;
+    padding: 1rem 0 1rem;
     background: #CFCFBA;
 }
 
@@ -28,15 +28,14 @@ body {
 }
 
 #nav-links {
-    border: 1.5px solid black;
+    border: 1px solid black;
     height: 10em;
     width: 80%;
     display: flex;
     flex-direction: column;
     text-align: center;
-    z-index: 100;
     overflow: auto;
-    margin: 1em auto;
+    margin: 0 auto 2rem;
 }
 
 .nav-link {
@@ -133,30 +132,34 @@ body {
         flex-direction: column;
         text-align: center;
         z-index: 100;
-        background: white;
-        overflow: auto;
+        background: #CFCFBA;
+        overflow-y: scroll;
         margin: 0;
         border-right: 1px solid black;
     }
 
-    #nav-links {
-        height: 100%;
-        width: 100%;
-        background: #CFCFBA;
-        overflow: auto;
-        margin: 0;
-        border: none;
+    #navbar>header {
+        padding: 1rem 0 0;
     }
 
-    #navbar h1 {
-        margin: 0;
-        padding: 1rem 0;
+    #nav-links {
+        height: 100%;
+        width: 101%;
+        background: #CFCFBA;
+        overflow: auto;
+        margin: 0 auto;
+        border: none;
     }
 
     #navbar h1,
     .nav-link {
         width: 100%;
         border-bottom: 1px solid black;
+    }
+
+    #navbar h1 {
+        margin: 0;
+        padding: 1rem 0;
     }
 
 
