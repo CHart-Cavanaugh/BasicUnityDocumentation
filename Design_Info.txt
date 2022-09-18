@@ -42,11 +42,21 @@ Technical Documentation Design
             Useful Questions
 
                 0) [START]
+                1) What information does this section cover?
+                2) What programs need to be downloaded and installed in order to use Unity?
                 n) [END]
 
             Topic Qualities
 
                 0) [START]
+                1) In order to work on projects in Unity, developers need to have: the necessary programs
+                   downloaded and installed, an account with Unity, and a license added to their Unity account.
+                2) The necessary programs that developers need in order to work on projects in Unity are:
+                3) Unity offers different licenses in order for developers to use their editor (which includes a free
+                   license to get started with).
+                4) To obtain a license for using Unity, developers must have a Unity account. 
+                4) Read through the section for more information on: downloading and installing Unity Hub, installing Unity
+                   through Unity Hub, creating an account with Unity, and downloading and installing Visual Studio Code.
                 n) [END]
 
             END
