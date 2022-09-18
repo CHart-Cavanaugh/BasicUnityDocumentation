@@ -7,6 +7,10 @@ Technical Documentation Design
             Useful Questions
 
                 0) [START]
+                1) What is Unity?
+                2) What is a game engine?
+                3) Besides making video games for different platforms, what else can Unity be used for?
+                4) What are some examples of video games made by Unity?
                 n) [END]
 
             Topic Qualities
