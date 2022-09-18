@@ -53,7 +53,8 @@ a {
 }
 
 .main-section {
-    padding-left: 1em;
+    margin: 0 1em;
+    background-color: #E6E6E6;
 }
 
 .main-section h2 {
