@@ -110,6 +110,10 @@ Technical Documentation Design
             Useful Questions
 
                 0) [START]
+                1) What is Visual Studio Code and how is it different from Visual Studio Community?
+                2) Why would someone install Visual Studio Code for Unity Projects instead of installing Visual Studio Community
+                   as part of a module when installing a new version of Unity?
+                3) Where does someone go to download and install Visual Studio Code?
                 n) [END]
 
             Topic Qualities
