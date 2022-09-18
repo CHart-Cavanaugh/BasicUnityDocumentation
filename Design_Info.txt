@@ -72,6 +72,20 @@ Technical Documentation Design
 
             END
 
+        Creating An Account With Unity
+
+            Useful Questions
+
+                0) [START]
+                n) [END]
+
+            Topic Qualities
+
+                0) [START]
+                n) [END]
+
+            END
+
         Installing Unity Through Unity Hub
 
             Useful Questions
