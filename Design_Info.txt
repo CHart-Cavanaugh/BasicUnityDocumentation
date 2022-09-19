@@ -74,6 +74,26 @@ Technical Documentation Design
             Topic Qualities
 
                 0) [START]
+                1) In order to install Unity, developers will need to first install Unity Hub.
+                2) Unity Hub is program for viewing existing installs of Unity or installing new versions, 
+                   creating new or opening existing Unity projects, accessing different resources for 
+                   learning Unity, accessing different community resources, and quick access to a Unity
+                   account.
+                3) To download Unity Hub, developers can go to the link below and click on the button 
+                   labeled "Download Unity Hub".
+
+                    0) [START]
+                    1) Download Unity: https://unity3d.com/get-unity/download
+                    n) [END]
+
+                4) After following the link to the Unity site, developers will notice that the site will 
+                   give them the option to download Unity directly without Unity Hub, but they should ignore that 
+                   option for now because Unity Hub will give them a place to manage their Unity installs and make 
+                   it easy to open or create Unity projects. Once Unity Hub is downloaded, they will need to 
+                   open the installer and install Unity Hub similary to how they would install any other 
+                   program. Once Unity Hub is installed, they should go ahead and open it on their 
+                   computer and familiarize themselves with Unity Hub's interface (understanding all the core 
+                   features as outlined by this subsection).
                 n) [END]
 
             END
