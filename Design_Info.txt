@@ -112,6 +112,43 @@ Technical Documentation Design
             Topic Qualities
 
                 0) [START]
+                1) At some point, Unity Hub is going to ask developers to log into their Unity account.
+                2) Unity Hub does this because Unity allows developers play around with the Unity editor before
+                   requiring them to have a license for further use.
+                3) To get started, developers should go to the link below and sign up for a Unity account.
+
+                    0) [START]
+                    1) Sign-Up for a Unity ID (Unity Account): 
+                       https://id.unity.com/en/conversations/2248e7b0-9bad-485d-a41a-d12717dd47bd004f?view=register
+                    n) [END]
+
+                4) Once developers have signed up for a Unity account (or already have a pre-existing account),
+                   they should log into their account on Unity Hub and use Unity Hub to access their account 
+                   in a browser (this will ensure that they are logged in on both the website and Unity Hub).
+                5) After developers have their Unity accounts set up and are logged in, they will need to add 
+                   a license to their account in order to use Unity.
+                6) Unity offers 5 different payment plans for adding a license to an account, which include:
+
+                    0) [START]
+                    1) The "Personal" plan (for developers making less than 100k with Unity in the last year)
+                    2) The "Student" plan (for students)
+                    3) The "Unity Plus" plan (for developers making less than 200k with Unity in the last year)
+                    4) The "Unity Pro" plan (for professionals)
+                    5) The "Enterprise" plan (for large organizations)
+                    n) [END]
+
+                7) For a comparison of what each plan has to offer and how much each costs, developers should go to the 
+                   link below:
+
+                    0) [START]
+                    1) Compare Unity Licensing Plans: https://store.unity.com/compare-plans
+                    n) [END]
+
+                8) For just getting started with Unity, developers should add the personal license to their account (which 
+                   allows them to use Unity for free and suggests that they have made less than 100k with Unity in the 
+                   last year).
+                9) Once they have added a license to their account (which they can confirm by going to
+                   their account settings and looking under "My Seats"), they are now ready to use the Unity editor.
                 n) [END]
 
             END
