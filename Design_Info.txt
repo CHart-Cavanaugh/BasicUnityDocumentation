@@ -168,6 +168,17 @@ Technical Documentation Design
             Topic Qualities
 
                 0) [START]
+                1) In the "Installs" tab, found on the sidebar on the left side of Unity Hub, developers can manage their 
+                   installs of the Unity editor.
+                2) Developers can use this section of Unity Hub to view the versions of Unity that they currently have 
+                   installed on their system, to add modules to the versions of Unity they have installed, to uninstall
+                   versions of Unity they no longer wish to use, or to install new versions of Unity.
+                3) To install a new version of Unity onto their system, developers can click the "Install Editor" button.
+                4) When installing a new version of the Unity editor, developers should choose versions that have long-term
+                   support (LTS) because they are going to be more stable and more complete than newer versions or pre-released
+                   versions.
+                5) After selecting what version of the Unity editor install, Unity Hub will ask developers what modules they want
+                   to add to the version that they are installing.
                 n) [END]
 
             END
