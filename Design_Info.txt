@@ -167,18 +167,33 @@ Technical Documentation Design
 
             Topic Qualities
 
-                0) [START]
-                1) In the "Installs" tab, found on the sidebar on the left side of Unity Hub, developers can manage their 
+                00) [START]
+                01) In the "Installs" tab, found on the sidebar on the left side of Unity Hub, developers can manage their 
                    installs of the Unity editor.
-                2) Developers can use this section of Unity Hub to view the versions of Unity that they currently have 
+                02) Developers can use this section of Unity Hub to view the versions of Unity that they currently have 
                    installed on their system, to add modules to the versions of Unity they have installed, to uninstall
                    versions of Unity they no longer wish to use, or to install new versions of Unity.
-                3) To install a new version of Unity onto their system, developers can click the "Install Editor" button.
-                4) When installing a new version of the Unity editor, developers should choose versions that have long-term
+                03) To install a new version of Unity onto their system, developers can click the "Install Editor" button.
+                04) When installing a new version of the Unity editor, developers should choose versions that have long-term
                    support (LTS) because they are going to be more stable and more complete than newer versions or pre-released
                    versions.
-                5) After selecting what version of the Unity editor install, Unity Hub will ask developers what modules they want
+                05) After selecting what version of the Unity editor install, Unity Hub will ask developers what modules they want
                    to add to the version that they are installing.
+                06) For modules being added to a Unity installation, Developers have the choice of adding developer tools to use with Unity, 
+                   platforms that Unity can build applications for, language packs for Unity, and documentation built into the editor.
+                07) Modules can be added to Unity either before or after installation.
+                08) For the documenation given by this page, developers should choose the following modules: 
+
+                    0) [START]
+                    1) Universal Windows Platform Build support
+                    2) Documentation
+                    n) [END]
+
+                09) Developers can choose to add the "Microsoft Visual Studio Community" module later on to use that program
+                   for writing code, but this documentation will be covering how to use the "Microsoft Visual Studio Code" 
+                   program as their IDE for Unity projects instead.
+                10) After selecting modules to add to their Unity installation, developers should then click on install to install
+                    the selected version of the Unity editor with the selected modules.
                 n) [END]
 
             END
