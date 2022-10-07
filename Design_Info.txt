@@ -212,6 +212,15 @@ Technical Documentation Design
             Topic Qualities
 
                 0) [START]
+                1) Microsoft Visual Studio Code is a text editor for developers which can be enhanced with extensions.
+                2) Different programs can be used to write code for Unity projects (such as Microsoft Visual Studio Community or 
+                   Microsoft Visual Studio Code), but for the documentation of Unity that is given by this page, developers will 
+                   be using Microsoft Visual Studio Code to write code for their Unity projects.
+                3) Microsoft Visual Studio Code works great for Unity projects and functions the same on both Windows and Mac.
+                4) To download Microsoft Visual Studio Code so that it can be installed, developers can follow the link below and 
+                   click the download button on the page that opens.
+                5) Once Microsoft Visual Studio Code is downloaded, developers will need to open the installer and install the program
+                   onto their machine using the recommended or default settings.
                 n) [END]
 
             END
