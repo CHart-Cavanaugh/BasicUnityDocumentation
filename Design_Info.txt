@@ -227,7 +227,7 @@ Technical Documentation Design
 
         END
 
-    Creating A New Unity Project
+    Creating And Opening Unity Projects
 
         Section Introduction
 
@@ -243,7 +243,7 @@ Technical Documentation Design
 
             END
 
-        Selecting Editor Version
+        Creating A New Unity Project
 
             Useful Questions
 
@@ -257,81 +257,7 @@ Technical Documentation Design
 
             END
 
-        Selecting A Project Template
-
-            Useful Questions
-
-                0) [START]
-                n) [END]
-
-            Topic Qualities
-
-                0) [START]
-                n) [END]
-
-            END
-
-        Selecting Project Location
-
-            Useful Questions
-
-                0) [START]
-                n) [END]
-
-            Topic Qualities
-
-                0) [START]
-                n) [END]
-
-            END
-
-        Naming The Project
-
-            Useful Questions
-
-                0) [START]
-                n) [END]
-
-            Topic Qualities
-
-                0) [START]
-                n) [END]
-
-            END
-
-        END
-
-    Opening An Existing Unity Project
-
-        Section Introduction
-
-            Useful Questions
-
-                0) [START]
-                n) [END]
-
-            Topic Qualities
-
-                0) [START]
-                n) [END]
-
-            END
-
-        Adding The Project to Unity Hub
-
-            Useful Questions
-
-                0) [START]
-                n) [END]
-
-            Topic Qualities
-
-                0) [START]
-                n) [END]
-
-            END
-        
-        Selecting Editor Version
+        Opening An Existing Unity Project
 
             Useful Questions
 
